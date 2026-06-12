@@ -7,8 +7,9 @@
 <div id="cbs-widget-footer">
   <div class="cbs-widget-grid">
     <div class="cbs-widget-col-expand">
-      <p>Quisque tellus quam, cursus at posuere vitae, finibus commodo nibh. Donec tellus sapien, rutrum non elit in,
-        faucibus viverra metus.</p>
+      <p>Acompanhe o trabalho de quem apoia a comunidade.<br>
+        Saiba por que razão apoiamos as boas causas.
+      </p>
     </div>
     <div class="cbs-widget-col-auto">
       <a class="cbs-widget-button"
